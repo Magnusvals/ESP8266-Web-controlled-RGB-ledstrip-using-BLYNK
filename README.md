@@ -46,3 +46,13 @@ I used Frizing to make the circuit.
 
 <img src="img/Scematic.png" width="500">
 
+# How to install ESP library in Arduino IDE
+Start by Dowloading the latest version of [arduino IDE](https://www.arduino.cc/en/Main/Software).
+
+After insalling Arduino, open file, preferences, and copy http://arduino.esp8266.com/stable/package_esp8266com_index.json into additional board manager url.
+
+<img src="img/Tools.jpg" width="700">
+
+<img src="img/settings.jpg" width="700">
+
+Then open tools, Board, Boards manager. 
