@@ -55,4 +55,15 @@ After insalling Arduino, open file, preferences, and copy http://arduino.esp8266
 
 <img src="img/settings.jpg" width="700">
 
-Then open tools, Board, Boards manager. 
+Then open Tools, Board, Boards manager. 
+Search for ESP in the blank field and install the latest version of ESP8266.
+<img src="img/board manager.jpg" width="700">
+
+When done installing close the Boards manager and select the board to NodeMCU 1.0.
+<img src="img/board.jpg" width="700">
+
+Open the example file for the NodeMCU board. (File/examples/Blynk/Boards_WiFi/NodeMCU)
+<img src="img/test file.jpg" width="700">
+
+In the example code put in the autorisation key you got sent in previous steps, and insert your SSID and password.
+<img src="img/code.jpg" width="700">
