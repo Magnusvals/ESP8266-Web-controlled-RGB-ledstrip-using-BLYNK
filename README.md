@@ -30,12 +30,12 @@ BLYNK is an phone app that makes it easy for user to make IoT projects using ESP
 
 # Making the circuit board
 Componenst used:
-* [NodeMCU ESP8266 Development board](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=nodemcu+esp8266+esp-12+v3&_sacat=65507&LH_TitleDesc=0&_osacat=65507&_odkw=nodemcu+esp8266+esp-12)
-* [IRF510](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=irf510&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=irf510n)
+* 1 x [NodeMCU ESP8266 Development board](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=nodemcu+esp8266+esp-12+v3&_sacat=65507&LH_TitleDesc=0&_osacat=65507&_odkw=nodemcu+esp8266+esp-12)
+* 3 x [IRF510](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=irf510&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=irf510n)
 * [RGB led strip](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=5050+SMD+600+LED+RGB+&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=2+x+5M+10M+5050+SMD+600+LED+RGB+Flexible+Strip+Light+Car+Auto+DC+12V+ED)
-* [LM7805 Voltage regulator](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=lm7805cv&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=lm7805)
-* [1μF Capasitor](https://www.ebay.com/sch/i.html?_nkw=1uf+capacitor+electrolytic&_sop=15)
-* [1kΩ Resistor](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=1k+resistor&_sacat=0)
+* 1 x [LM7805 Voltage regulator](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=lm7805cv&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=lm7805)
+* 2 x [1μF Capasitor](https://www.ebay.com/sch/i.html?_nkw=1uf+capacitor+electrolytic&_sop=15)
+* 2 x [1kΩ Resistor](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=1k+resistor&_sacat=0)
 * [Protoboard](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=protoboard+dot&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=protoboard)
 
 I used Frizing to make the circuit.
