@@ -23,6 +23,14 @@ BLYNK is an phone app that makes it easy for user to make IoT projects using ESP
 
 <img src="img/7_zeRGBa_settings.jpg" width="150">
 
-7. Close the widget settings. And start the project bay pressing the play button at the top
+7. Close the widget settings. And start the project by pressing the play button at the top
 
 <img src="img/8_Start_project.jpg" width="150">
+
+
+# Making the circuit board
+I used Frizing to make the circuit.
+
+<img src="img/Breadboard.png" width="500">
+
+<img src="img/Scematic.png" width="500">
