@@ -66,4 +66,4 @@ Open the example file for the NodeMCU board. (File/examples/Blynk/Boards_WiFi/No
 <img src="img/test file.jpg" width="700">
 
 In the example code put in the autorisation key you got sent in previous steps, and insert your SSID and password.
-<img src="img/code.jpg" width="700">
+<img src="img/kode.jpg" width="700">
