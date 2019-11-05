@@ -1,4 +1,4 @@
 # Web Controlled RGB Ledstrip Using ESP8266 and BLYNK app
 
-![](img/1_Create_project1.jpg) 
+![](img/1_Create_project.jpg) 
  
