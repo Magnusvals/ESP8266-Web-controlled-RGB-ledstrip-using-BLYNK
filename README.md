@@ -11,5 +11,5 @@ BLYNK is an phone app that makes it easy for user to make IoT projects using ESP
 
 *NOTE! the app will send you an autorisation key which the board must have to connect to that project, each board must have it own  autorisation key. you can add more board in the cogwheel at the top of the screen.*
 
-<img src="img/3_Select_item" width="150">
+<img src="img/3_Select_item.jpg" width="150">
 4. 
