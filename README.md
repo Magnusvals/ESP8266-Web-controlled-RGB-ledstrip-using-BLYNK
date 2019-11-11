@@ -16,6 +16,7 @@ BLYNK is an phone app that makes it easy for user to make IoT projects using ESP
 *NOTE! each widget cost energy, you start with 2000 energy, and you can buy more if you need more.*
 
 5. Hold you finger on the zeRGBa widget to enter move and resize mode. Place the widget where you want it and make it bigger for ease of use. 
+
 <img src="img/5_Resize_item.jpg" width="150">   <img src="img/6_Full_size.jpg" width="150">
 
 6. Enter widget setting by tapping on the widget, and change the pin inputs to the pins used for RGB PWM output on the ESP8266. (I use GPO15, GPO13, GPO12 for RED, GREEN, BLUE) i suggest disabling "send on release".
@@ -23,6 +24,8 @@ BLYNK is an phone app that makes it easy for user to make IoT projects using ESP
 
 *NOTE! target is used for selecting which board you want to control if you have multiple board connected to the same project*
 7. Close the widget settings. And start the project by pressing the play button at the top
+
+*NOTE! if you use an output pin with a 10bit PWM make sure to change from 255 to 1024.
 
 <img src="img/8_Start_project.jpg" width="150">
 
